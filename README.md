@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Sagar Agarwal 👋
 
-<!--
-**Sagar-TechAI/Sagar-TechAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- PMP Certified Project Manager
+- 20 Years of IT Experience
+- Payments Domain Specialist
+- AI Technical Program Manager Aspirant
+- Building AI-powered Products
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Mission
+
+🚀 Transformation in new Era
+
+Goal:
+Become an AI TPM/TDM with strong AI, Payments, and Product capabilities.
+
+## Current Projects
+
+- Payment Knowledge Assistant
+- Payment Failure RCA AI
+- AI PM Copilot
+- SagarVerse AI
+
+## Tech Stack
+
+- Python
+- Streamlit
+- FastAPI
+- RAG
+- LangChain
+- SQL
+- GitHub
+
+## Connect
+
+LinkedIn: https://www.linkedin.com/in/sagar-saroj-agarwal-pmp-certified-11015b6b/
